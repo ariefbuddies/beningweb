@@ -1,0 +1,54 @@
+<section class="top-bar animated-header">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<nav class="navbar navbar-expand-lg navbar-light bg-light">
+					<a class="navbar-brand" href="{{ .Site.BaseURL }}">
+						<img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}">
+					</a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation"
+						aria-controls="navigation" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse" id="navigation">
+						<ul class="navbar-nav ml-auto">{{ range site.Menus.main }}
+							{{ if .HasChildren }}
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+									aria-expanded="false">
+									{{ .Name }}
+								</a>
+								<div class="dropdown-menu">
+									{{ range .Children }}
+									<a class="dropdown-item"
+										href="{{if .Pre}}{{site.BaseURL | absLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{ .Name }}</a>
+									{{ end }}
+								</div>
+							</li>
+							{{ else }}
+							<li class="nav-item">
+								<a class="nav-link"
+									href="{{if .Pre}}{{site.BaseURL | absLangURL}}{{.Pre}}{{ .URL }}{{else}}{{.URL | absLangURL}}{{end}}">{{ .Name }}</a>
+							</li>
+							{{ end }}
+							{{ end }}
+						</ul>
+					</div>
+				</nav>
+			</div>
+		</div>
+	</div>
+<div class="rowwa">
+<div class="columnwa">
+<link rel="stylesheet" href="https://ayzeapykfq.cloudimg.io/v7/maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?func=proxy&process=minify-css">
+<a href="https://api.whatsapp.com/send?phone=62818267443&text=" class="float1" target="_blank">
+<i class="fa fa-whatsapp my-float1">0818-267-443</i>
+</a></div>
+<div class="columnwa">
+<link rel="stylesheet" href="https://ayzeapykfq.cloudimg.io/v7/maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css?func=proxy&process=minify-css">
+<a href="https://api.whatsapp.com/send?phone=6281222226783&text=" class="float2" target="_blank">
+<i class="fa fa-whatsapp my-float2">0812-2222-6783</i>
+</a></div>
+</div>
+</section>

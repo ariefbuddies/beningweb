@@ -1,0 +1,106 @@
+baseURL = "localhost"
+languageCode = "en-us"
+title = "Bening Abadi Trans"
+theme = "timer-hugo"
+# post pagination
+paginate = "2" # see https://gohugo.io/extras/pagination/
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Penginapan"
+url = "penginapan/"
+weight = 2
+
+[[menu.main]]
+name = "Sewa Mobil Jogja"
+url = "sewamobiljogja/"
+weight = 3
+
+[[menu.main]]
+name = "Sewa Motor Jogja"
+url = "sewamotorjogja/"
+weight = 4
+
+[[menu.main]]
+name = "Gallery"
+url = "gallery/"
+weight = 5
+
+[[menu.main]]
+name = "Obyek Wisata Jogja"
+url = "blog/"
+weight = 6
+
+[[menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 7
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/logo.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Timer Hugo theme"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable = true
+bgImage = "https://ayzeapykfq.cloudimg.io/v7/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/panobening.jpg?f=blur:2&radius=25&force_format=png&"
+heading = "HI, BENING ABADI TRANSPORT"
+description = "Rental Motor Mulai 70Rb/Hari | Sewa Mobil Mulai 250rb/Hari | Penginapan Mulai 165rb/Malam Telp. 0274-583197 & 0274-547440 Untuk informasi lebih lanjut dan booking."
+# button
+btn = false
+btnText = "More"
+btnURL = ""
+
+# flip text
+[[params.banner.flipText]]
+title = "SEWA MOBIL JOGJA"
+[[params.banner.flipText]]
+title = "PENGINAPAN JOGJA"
+[[params.banner.flipText]]
+title = "RENTAL MOTOR JOGJA"
+
+# Homepage About Section
+[params.about]
+enable = true
+title = "Tentang Bening Abadi"
+content = "Sejak tahun 2010 Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di Yogyakarta dan lokasi yang terdekat UGM dan UNY Jogja."
+image = "https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m14.webp?w=400&radius=20&force_format=png&"
+
+# Call to Action
+[params.cta]
+enable = true
+title = "Klik tombol wa di kanan bawah untuk order kak"
+content = "Dibawah ini untuk kontak kami"
+btnText = "Kontak kami"
+btnURL = "/timerku/contact/"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable = true
+title = "SEWA MOBIL MURAH"
+subtitle = "Sewa Mobil Jogja termurah hanya disini!!!"
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "#"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "#"
