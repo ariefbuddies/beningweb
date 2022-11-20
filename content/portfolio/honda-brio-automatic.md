@@ -1,8 +1,8 @@
 ---
-title: "Honda Brio Matic"
+title: "Honda Brio Automatic"
 type: portfolio
 date: 2018-07-12T16:58:55+06:00
-description : "Sewa mobil Honda Brio Matic"
+description : "Sewa mobil Honda Brio Automatic"
 caption: 12 jam 250k | 24 jam 300k
 image: https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/brio.jpg?w=400&radius=25&force_format=png&
 category: ["Investment","Business"]
