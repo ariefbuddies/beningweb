@@ -151,7 +151,7 @@ a:hover {
 
 .global-page-header .breadcrumb {
   background: none;
-  font-size: 16px;
+  font-size: 24px;
   padding: 8px 0;
   display: block;
 }
@@ -1063,7 +1063,7 @@ article {
   padding: 12px 40px;
   transition: .2s all;
   letter-spacing: 2px;
-  font-size: 15px;
+  font-size: 25px;
 }
 
 #product-showcase-banner .block .buttons .btn-demo {
