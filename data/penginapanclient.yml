@@ -1,14 +1,8 @@
 enable  : true
-title   : OUR HAPPY CLIENTS
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, error.
+title   : OUR HAPPY ROOM
+subtitle: PGALERI PENGINAPAN
 clientsLogo:
-  - image : images/clients/logo-1.jpg
-  - image : images/clients/logo-2.jpg
-  - image : images/clients/logo-3.jpg
-  - image : images/clients/logo-4.jpg
-  - image : images/clients/logo-5.jpg
-  - image : images/clients/logo-1.jpg
-  - image : images/clients/logo-2.jpg
-  - image : images/clients/logo-3.jpg
-  - image : images/clients/logo-4.jpg
-  - image : images/clients/logo-5.jpg
+  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghkamar.jpg?func=crop&w=320&h=240&v2
+  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghkluarga.jpg?func=crop&w=320&h=240&v2
+  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghdapur.jpg?func=crop&w=320&h=240&v2
+  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghkamar2.jpg?func=crop&w=320&h=240&v2
