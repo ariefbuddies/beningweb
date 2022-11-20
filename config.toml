@@ -60,8 +60,8 @@ contactFormAction = "#" # contact form works with https://formspree.io
 [params.banner]
 enable = true
 bgImage = "https://ayzeapykfq.cloudimg.io/v7/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/panobening.jpg?f=blur:2&radius=25&force_format=png&"
-heading = "HI, di BENING ABADI TRANSPORT kamu bisa"
-description = "Rental Motor Mulai 70Rb/Hari | Sewa Mobil Mulai 250rb/Hari | Penginapan Mulai 165rb/Malam Telp. 0274-583197 & 0274-547440 Untuk informasi lebih lanjut dan booking."
+heading = "Hai, di BENING ABADI TRANSPORT kamu bisa"
+description = "Rental Motor Mulai 70k/Hari | Sewa Mobil Mulai 250k/Hari | Penginapan Mulai 165k/Malam Telpon 0274-583197 & 0274-547440 Untuk informasi lebih lanjut dan booking."
 # button
 btn = false
 btnText = "More"
@@ -75,13 +75,13 @@ title = "MINJEM MOTOR"
 [[params.banner.flipText]]
 title = "NGINEP"
 [[params.banner.flipText]]
-title = "Ga ngapa2in gpp kok"
+title = "TAPI BAYAR YA kak :)"
 
 # Homepage About Section
 [params.about]
 enable = true
 title = "Tentang Bening Abadi"
-content = "Sejak tahun 2010 Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di Yogyakarta dan lokasi yang terdekat UGM dan UNY Jogja."
+content = "Sejak dulu kala Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di Yogyakarta dan berlolokasi yang terdekat dengan UGM dan UNY Jogja."
 image = "https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m14.webp?w=400&radius=20&force_format=png&"
 
 # Call to Action
