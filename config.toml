@@ -20,7 +20,7 @@ weight = 2
 
 [[menu.main]]
 name = "Sewa Mobil Jogja"
-url = "sewamobiljogja/"
+url = "/"
 weight = 3
 
 [[menu.main]]
