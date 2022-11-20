@@ -6,29 +6,13 @@ members  :
     designation  : Tes
     description : Tes
  
-  - name  : Jesmin Martina
+  - name  : Kamar Deluxe
     image : https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/ghdepan.jpg?w=300&radius=25&force_format=png&
     designation : CEO, Project Manager
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
+    
   
-  - name  : Deu John
+  - name  : Kamar Standar
     image : https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/ghdepan.jpg?w=200&radius=25&force_format=png&
     designation : CEO, Project Manager
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
-
-  - name  : Anderson Martin
-    image : https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/ghdepan.jpg?w=100&radius=25&force_format=png&
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
-    facebook    : https://www.fb.com/themefisher
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
-    googleplus  : https://plus.google.com/themefisher
