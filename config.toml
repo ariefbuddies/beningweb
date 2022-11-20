@@ -85,10 +85,10 @@ image = "https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/b
 # Call to Action
 [params.cta]
 enable = true
-title = "Klik tombol wa di kanan bawah untuk order kak"
+title = "Telp. 0274-583197 & 0274-547440 Untuk informasi lebih lanjut dan booking"
 content = "Dibawah ini untuk kontak kami"
 btnText = "Kontak kami"
-btnURL = "/timerku/contact/"
+btnURL = "/beningweb/contact/"
 
 # Portfolio Section On Homepage
 [params.portfolio]
