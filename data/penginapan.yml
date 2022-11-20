@@ -1,7 +1,7 @@
 enable  : true
 title   : Kenapa Penginapan kami berbeda dengan yg lain??
 description: Stressss
-image   : images/about/about-penginapan.jpg
+image   : https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/content-5a4df3448bb6d-1-650x450.jpg?w=400&radius=25&force_format=png&
 aboutItem:
   - title : Why Choose Us
     description: > 
