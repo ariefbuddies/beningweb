@@ -1,4 +1,4 @@
-baseURL = "localhost"
+baseURL = "https://ariefbuddies.github.io/beningweb/"
 languageCode = "en-us"
 title = "Bening Abadi Trans"
 theme = "timer-hugo"
