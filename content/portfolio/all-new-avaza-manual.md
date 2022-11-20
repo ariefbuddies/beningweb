@@ -14,10 +14,10 @@ location: Yaitu Jam Operasional 09.00 to 22.00 WIB, Pengantaran dan pengambilan 
 • 24 Jam 275 ribu
 
 >#### Mobil + Driver
-•10 Jam 350 ribu
+•10 Jam 325 ribu
 
 •Per Hari 425 ribu
 >#### Mobil + Driver + BBM
-•10 Jam 475 ribu
+•10 Jam 425 ribu
 
 •Per Hari 525 ribu
