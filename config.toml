@@ -95,8 +95,8 @@ btnURL = "/beningweb/contact/"
 # Portfolio Section On Homepage
 [params.portfolio]
 enable = true
-title = "SEWA MOBIL MURAH"
-subtitle = ""
+title = "SEWA MOBIL JOGJA"
+subtitle = "___________________________"
 
 # social icon
 [[params.socialIcon]]
