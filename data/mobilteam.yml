@@ -4,14 +4,7 @@ members  :
   - name  : Jonathon Andrew
     image : https://ayzeapykfq.cloudimg.io/v7/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m3.webp?w=400&radius=25&force_format=png&
     designation : CEO, Project Manager
-    description : Short description
-  of this post
-
-
-  **bold** -- _italics_ --- ~~strikethrough~~ `monospace`
-
-
-  These lines <br />
+    description : These lines <br />
   show up with line breaks <br />
   but within the same paragraph.
   
