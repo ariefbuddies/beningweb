@@ -3,10 +3,15 @@ title   : Kenapa Penginapan kami berbeda dengan yg lain??
 description: Stressss ga bisa ngapa2in
 image   : https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/content-5a4df3448bb6d-1-650x450.jpg?w=400&radius=25&force_format=png&
 aboutItem:
-  - title : Syarat Dan Ketentuan Berlaku
-    description: Tes
-  - title : Syarat dan Ketentuan Berlaku
-    description: Tes
-   -title : Syarat dan Ketentuan Berlaku
-    description : Tes
+  - title : Syarat Dan Ketentuan Berlaku 1
+    description: >
+    Tes
+ 
+ - title : Syarat dan Ketentuan Berlaku 2
+    description: >
+    Tes
+ 
+ -title : Syarat dan Ketentuan Berlaku 3
+    description : >
+    Tes
 
