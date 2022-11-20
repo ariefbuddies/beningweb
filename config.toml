@@ -96,7 +96,7 @@ btnURL = "/beningweb/contact/"
 [params.portfolio]
 enable = true
 title = "SEWA MOBIL MURAH"
-subtitle = "Sewa Mobil Jogja termurah hanya disini!!!"
+subtitle = ""
 
 # social icon
 [[params.socialIcon]]
