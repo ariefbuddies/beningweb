@@ -129,7 +129,7 @@ a:hover {
 }
 
 .fancybox-title h3 {
-  font-size: 15px;
+  font-size: 25px;
   margin: 0;
 }
 
@@ -587,7 +587,7 @@ figure figcaption h4 a {
 }
 
 figure figcaption p {
-  font-size: 14px;
+  font-size: 24px;
   margin-bottom: 0;
   margin-top: 5px;
 }
@@ -754,7 +754,7 @@ article {
 }
 
 .sidebar .author .author-bio p {
-  font-size: 14px;
+  font-size: 24px;
   color: #888;
 }
 
@@ -952,7 +952,7 @@ article {
 
 .single-post .media .media-body a {
   color: #02bdd5;
-  font-size: 12px;
+  font-size: 22px;
 }
 
 .single-post .media .media {
