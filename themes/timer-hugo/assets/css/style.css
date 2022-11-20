@@ -262,12 +262,12 @@ a:hover {
 .dropdown-item {
   color: #fff;
   display: block;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 500;
   line-height: normal;
-  text-decoration: none;
+  text-decoration: bold;
   padding: 8px 0;
-  transition: .3s all;
+  transition: .5s all;
 }
 
 .dropdown-item:not(:last-child) {
