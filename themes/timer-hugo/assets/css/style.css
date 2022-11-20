@@ -322,12 +322,12 @@ a:hover {
 }
 
 #hero-area h2 {
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 300;
   margin-bottom: 38px;
   line-height: 27px;
   text-transform: uppercase;
-  color: #666;
+  color: #333;
   font-family: 'Roboto', sans-serif;
   margin-top: 25px;
 }
