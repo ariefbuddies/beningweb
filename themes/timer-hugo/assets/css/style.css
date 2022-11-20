@@ -3,7 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Cabin Sketch);
 
 body {
-  font-family: "Cabin", sans-serif;
+  font-family: "Cabin", Cabin Sketch;
 }
 
 h1,
@@ -12,7 +12,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Asap", sans-serif;
+  font-family: "Asap", Cabin Sketch;
 }
 
 h2 {
@@ -20,7 +20,7 @@ h2 {
 }
 
 p {
-  font-family: "Cabin", sans-serif;
+  font-family: "Cabin", Cabin Sketch;
   line-height: 22px;
   font-size: 16px;
   font-weight: 300;
