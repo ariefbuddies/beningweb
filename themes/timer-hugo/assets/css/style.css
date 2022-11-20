@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Cabin:400,300,100,500,700);
-@import url(https://fonts.googleapis.com/css?family=Asap+Pasifico:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Asap+Pacifico:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Cabin Sketch);
 
 body {
@@ -328,7 +328,7 @@ a:hover {
   line-height: 27px;
   text-transform: lettercase;
   color: #333;
-  font-family: 'Pasifico', Cabin Sketch;
+  font-family: 'Pacifico', Cabin Sketch;
   margin-top: 25px;
 }
 
