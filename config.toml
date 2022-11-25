@@ -49,7 +49,7 @@ home = "Home"
 logo = "images/logo.png"
 dateFormat = "6 January 2006"
 # Meta data
-description = "Sewa Mobil Jogja"
+description = "Themefisher"
 author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
@@ -96,7 +96,7 @@ btnURL = "/beningweb/contact/"
 [params.portfolio]
 enable = true
 title = "SEWA MOBIL JOGJA"
-subtitle = "___________________________"
+subtitle = "_______________________"
 
 # social icon
 [[params.socialIcon]]
