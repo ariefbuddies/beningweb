@@ -49,7 +49,7 @@ home = "Home"
 logo = "images/logo.png"
 dateFormat = "6 January 2006"
 # Meta data
-description = "Timer Hugo theme"
+description = "Sewa Mobil Jogja. Rental Motor. Penginapan. Homestay"
 author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
@@ -81,7 +81,7 @@ title = "tapi bayar :)"
 [params.penginapan]
 enable = true
 title = "Tentang Bening Abadi"
-content = "Sejak dulu kala Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di Yogyakarta dan berlolokasi yang terdekat dengan UGM dan UNY Jogja."
+content = "Sejak dulu kala Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di Yogyakarta dan berlokasi yang terdekat dengan UGM dan UNY Jogja."
 image = "https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m14.webp?w=400&radius=20&force_format=png&"
 
 # Call to Action
