@@ -7,12 +7,33 @@ image: images/blog/post-3.jpg
 author: Jamica Jock
 tags: ["motivation", "inspiration"]
 ---
+# <center>Live Menu :100:</center> 
+## We are under:construction: 
+## :a:ika Sawaguchi:love_letter: 
+![](https://yzeapykfq.cloudimg.io/i.imgur.com/0tRzJ85.webp?func=crop&w=200&h=200&v2)
+##### 50k/jam 100k/hari
+:100: Perawan ting2 :+1: 
+> [color=#07ef58]
+> [time=Mon, Nov 14, 2022 10:35 AM]
+> 1. Dilarang <b>mabok</b>:heavy_check_mark: 
+> 2. ~~Jangan~~ <strong>Boleh</strong> main gila
+> 3. Pakai kondom :exclamation:&#128513;:signal_strength::heavy_exclamation_mark: 
 
-&#128513;
-1. Ipsum dolor sit amet.
-2. Lorem sit amet.
-3. Lorem ipsum dolor sit amet.
-4. Lorem ipsum dolor amet.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus nostrum consectetur voluptatibus, odio ea ab distinctio, nulla asperiores facere sequi dolorum molestiae magni sed velit officia rerum illo necessitatibus consequatur maiores magnam possimus voluptas suscipit praesentium iste! Praesentium, modi, illum. Sint quis eos expedita porro voluptatum reiciendis minus vitae atque deleniti eligendi nulla, dolorem adipisci, assumenda sunt modi suscipit inventore hic nostrum veniam, ea accusantium quisquam! Ipsum odio, ducimus magnam nam ad quaerat soluta, ab laudantium beatae eius iusto fugit blanditiis laboriosam cupiditate dolor aut nulla a quam dolores? Unde, sunt, explicabo sapiente quos reiciendis iste fuga atque esse voluptatem.
+---
+
+### For :a: :bikini: 
+>[name=Bra]
+- [ ] Test 
+- [ ] stres
+- [ ] :100: 
+---
+:hearts::printer::telephone::iphone::adult::white_check_mark: 
+
+---
+
+|                                          AIKA 1                                          |                                          AIKA 2                                          |                                          AIKA 3                                          |
+|:----------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------:|
+| ![](https://ayzeapykfq.cloudimg.io/v7/i.imgur.com/0tRzJ85.webp?func=crop&w=100&h=100&v2) | ![](https://ayzeapykfq.cloudimg.io/v7/i.imgur.com/0tRzJ85.webp?func=crop&w=100&h=100&v2) | ![](https://ayzeapykfq.cloudimg.io/v7/i.imgur.com/0tRzJ85.webp?func=crop&w=100&h=100&v2) |
+
 
