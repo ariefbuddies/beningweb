@@ -60,7 +60,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 [params.banner]
 enable = true
 bgImage = ""
-heading = "Hai, di BENING ABADI TRANSPORT kamu bisa"
+heading = "SEWA MOBIL JOGJA"
 description = "Rental Motor Mulai 70k/Hari | Sewa Mobil Mulai 250k/Hari | Penginapan Mulai 165k/Malam di Telpon 0274-583197 & 0274-547440"
 # button
 btn = false
@@ -69,13 +69,13 @@ btnURL = ""
 
 # flip text
 [[params.banner.flipText]]
-title = "nyewa mobil"
+title = "Mo nyewa motor"
 [[params.banner.flipText]]
-title = "minjem motor"
+title = "Mo nginep"
 [[params.banner.flipText]]
-title = "nginep"
+title = "Murah"
 [[params.banner.flipText]]
-title = "tapi bayar :)"
+title = "Ga pake ribet"
 
 # Homepage About Section
 [params.penginapan]
