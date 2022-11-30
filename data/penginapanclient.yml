@@ -2,7 +2,7 @@ enable  : true
 title   : OUR HAPPY ROOM
 subtitle: GALERI PENGINAPAN
 clientsLogo:
-  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghkamar.jpg?func=crop&w=320&h=240&v2
-  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghkluarga.jpg?func=crop&w=320&h=240&v2
-  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghdapur.jpg?func=crop&w=320&h=240&v2
-  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghkamar2.jpg?func=crop&w=320&h=240&v2
+  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghkamar.jpg?func=crop&w=300&h=150&v2
+  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghkluarga.jpg?func=crop&w=300&h=150&v2
+  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghdapur.jpg?func=crop&w=300&h=150&v2
+  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghkamar2.jpg?func=crop&w=300&h=150&v2
