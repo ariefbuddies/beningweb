@@ -1,8 +1,8 @@
 enable  : true
-title   : OUR HAPPY ROOM
-subtitle: GALERI PENGINAPAN
+title   : GALERI BENING GUEST HOUSE
+subtitle: 
 clientsLogo:
-  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghkamar.jpg?func=crop&w=300&h=150&v2
-  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghkluarga.jpg?func=crop&w=300&h=150&v2
-  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghdapur.jpg?func=crop&w=300&h=150&v2
-  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghkamar2.jpg?func=crop&w=300&h=150&v2
+  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghkamar.jpg?w=300&radius=20&force_format=png&
+  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghkluarga.jpg?w=300&radius=20&force_format=png&
+  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghdapur.jpg?w=300&radius=20&force_format=png&
+  - image : https://ayzeapykfq.cloudimg.io/v7/beningabaditransport.com/uploads/ghkamar2.jpg?w=300&radius=20&force_format=png&
