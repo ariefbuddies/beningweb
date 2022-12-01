@@ -1397,7 +1397,7 @@ ul.social-icons li {
 	margin-top:12px;
 }
 .float3{
-	position:flex;
+	position:fixed;
 	width:160px;
 	height:40px;
 	bottom:20px;
