@@ -1,5 +1,5 @@
 baseURL = "https://ariefbuddies.github.io/beningweb/"
-languageCode = "en-us"
+languageCode = "id"
 title = "Sewa Mobil Jogja"
 theme = "timer-hugo"
 # post pagination
@@ -71,7 +71,7 @@ title = "Ga pake ribet"
 # Homepage About Section
 [params.penginapan]
 enable = true
-title = "Tentang Bening Abadi"
+title = "Tentang Bening Abadi Transport"
 content = "Sejak dulu kala Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di Yogyakarta dan berlokasi yang terdekat dengan UGM dan UNY Jogja."
 image = "https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m14.webp?w=400&radius=20&force_format=png&"
 
