@@ -28,20 +28,11 @@ name = "Sewa Motor Jogja"
 url = "sewamotorjogja/"
 weight = 4
 
-[[menu.main]]
-name = "Gallery"
-url = "gallery/"
-weight = 5
 
 [[menu.main]]
 name = "Obyek Wisata Jogja"
 url = "blog/"
-weight = 6
-
-[[menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 7
+weight = 5
 
 # Site Params
 [params]
