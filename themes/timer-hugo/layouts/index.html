@@ -1,15 +1,5 @@
 {{ define "main" }}
-<script>
 
-function f1()
-{
- var x=document.getElementById("myiframe");
-   x.src=x.src+Math.floor(random()%100000);
-}
-
-setInterval(f1,30*10000);
-
-</script>
 {{ partial "banner.html" . }}
 
 <iframe id="myiframe" width="101%" height="500px" src="https://hackmd.io/@brafie/Syn48yRHs" frameborder="0" allowfullscreen="0"></iframe>
