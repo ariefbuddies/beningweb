@@ -1,6 +1,6 @@
 baseURL = "https://ariefbuddies.github.io/beningweb/"
 languageCode = "id-ID"
-title = "Sewa Mobil Jogja"
+title = "Sewa Mobil Jogja di Bening Abadi Transport"
 theme = "timer-hugo"
 # post pagination
 paginate = "2" # see https://gohugo.io/extras/pagination/
