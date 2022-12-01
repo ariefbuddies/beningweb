@@ -1,14 +1,14 @@
 {{ define "main" }}
 <script>
-window.setInterval("reloadIFrame();", 90000);
+window.setInterval("reloadIFrame();", 10000);
 
 function reloadIFrame() {
- document.frames["frameNameHere"].location.reload();
+ document.frames["hackmd"].location.reload();
 }
 </script>
 {{ partial "banner.html" . }}
 
-<iframe width="100%" height="1000" src="https://hackmd.io/@brafie/Syn48yRHs/" frameborder="0" allowfullscreen="0"></iframe>
+<iframe id="hackmd" width="100%" height="1000px" src="https://hackmd.io/@brafie/Syn48yRHs/" frameborder="0" allowfullscreen="0"></iframe>
 
 {{ partial "penginapan.html" . }}
 
