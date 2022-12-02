@@ -78,7 +78,7 @@ a:hover {
   color: #727272;
   font-size: 18px;
   margin-bottom: 35px;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .pages {
@@ -429,7 +429,7 @@ a:hover {
 }
 
 .about-feature .block p {
-  font-weight: 300;
+  font-weight: 600;
 }
 
 .about-feature .about-feature-1 {
