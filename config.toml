@@ -80,8 +80,8 @@ image = "https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/b
 enable = true
 title = "Telpon 0274-583197 & 0274-547440 Untuk informasi lebih lanjut dan booking"
 content = "Syarat & Ketentuan Berlaku!!"
-btnText = "Kontak kami"
-btnURL = "/beningweb/contact/"
+btnText = ""
+btnURL = ""
 
 # Portfolio Section On Homepage
 [params.portfolio]
