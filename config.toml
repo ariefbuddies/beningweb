@@ -9,7 +9,7 @@ paginate = "2" # see https://gohugo.io/extras/pagination/
 
 # Navbar Menus
 [[menu.main]]
-name = "Home"
+name = "SEWA MOBIL JOGJA/HOME"
 url = "/"
 weight = 1
 
@@ -19,20 +19,15 @@ url = "penginapan/"
 weight = 2
 
 [[menu.main]]
-name = "Sewa Mobil Jogja"
-url = "/"
-weight = 3
-
-[[menu.main]]
 name = "Sewa Motor Jogja"
 url = "sewamotorjogja/"
-weight = 4
+weight = 3
 
 
 [[menu.main]]
 name = "Obyek Wisata Jogja"
 url = "blog/"
-weight = 5
+weight = 4
 
 # Site Params
 [params]
@@ -52,7 +47,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable = true
 bgImage = ""
 heading = "SEWA MOBIL JOGJA"
-description = "Rental Motor Mulai 70k/Hari | Sewa Mobil Mulai 250k/Hari | Penginapan Mulai 165k/Malam di Telpon 0274-583197 & 0274-547440"
+description = "Rental Motor Mulai 70k/Hari | Sewa Mobil Mulai 250k/Hari | Penginapan Mulai 165k/Malam di Telpon 0274-583197 & 0274-547440.<p><b>Sejak dulu kala Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di Yogyakarta dan berlokasi yang terdekat dengan UGM dan UNY Jogja. Kami selalu senantiasa berkomitmen memberikan yang terbaik kepada para pelanggan.</b></p>""
 # button
 btn = false
 btnText = "More"
