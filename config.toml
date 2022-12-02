@@ -45,9 +45,9 @@ contactFormAction = "#" # contact form works with https://formspree.io
 # Banner Section
 [params.banner]
 enable = true
-bgImage = ""
+bgImage = "images/slider.jpg"
 heading = "SEWA MOBIL JOGJA"
-description = "Rental Motor Mulai 70k/Hari | Sewa Mobil Mulai 250k/Hari | Penginapan Mulai 165k/Malam di Telpon 0274-583197 & 0274-547440.<p><b>Sejak dulu kala Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di Yogyakarta dan berlokasi yang terdekat dengan UGM dan UNY Jogja. Kami selalu senantiasa berkomitmen memberikan yang terbaik kepada para pelanggan.</b></p>"
+description = "Rental Motor Mulai 70k/Hari | Sewa Mobil Mulai 250k/Hari | Penginapan Mulai 165k/Malam di Telpon 0274-583197 & 0274-547440.Sejak dulu kala Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di Yogyakarta dan berlokasi yang terdekat dengan UGM dan UNY Jogja. Kami selalu senantiasa berkomitmen memberikan yang terbaik kepada para pelanggan."
 # button
 btn = false
 btnText = "More"
