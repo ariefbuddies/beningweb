@@ -9,7 +9,7 @@ tags: ["motivation", "inspiration"]
 ---
 # Testing
 ```toml
-# Change the default theme to be use when building the site with Hugo
+# Change the default theme togo
 theme = "timer-hugo"
 <u>test test terusssssssssssss!!</u>
 ```
