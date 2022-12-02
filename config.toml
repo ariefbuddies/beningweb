@@ -79,7 +79,7 @@ image = "https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/b
 [params.cta]
 enable = true
 title = "Telpon 0274-583197 & 0274-547440 Untuk informasi lebih lanjut dan booking"
-content = ""
+content = "Syarat & Ketentuan Berlaku!!"
 btnText = "Kontak kami"
 btnURL = "/beningweb/contact/"
 
