@@ -1,38 +1,33 @@
 enable  : true
 title   : Sewa Motor Jogja
 members  :
-  - name  : Beat Trail
+  - name  : Beat New Street
     image : https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/beat-trail.jpg?w=400&radius=25&force_format=png&
-    designation : 70Rb/hari >> 140Rb/2hari >> 200Rb/3hari
+    designation : 80 Ribu / Hari
     description : Max 2 helm per 1 motor >> Free pengantaran dan pengambilan di area kota (stasiun dan hotel) >> Jas hujan (selama persediaan masih ada)
   
   
   - name  : Honda Genio
     image : https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/genio.jpg?w=400&radius=25&force_format=png&
-    designation : 70Rb/hari >> 140Rb/2hari >> 200Rb/3hari
+    designation : 80 Ribu / Hari
     description : Max 2 helm per 1 motor >> Free pengantaran dan pengambilan di area kota (stasiun dan hotel) >> Jas hujan (selama persediaan masih ada)
 
 
   - name  : Honda Beat
     image : https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/fjimg-20191224-145508.png?w=400&radius=25&force_format=png&
-    designation : 70Rb/hari >> 140Rb/2hari >> 200Rb/3hari
+    designation : 70 Ribu / Hari
     description : Max 2 helm per 1 motor >> Free pengantaran dan pengambilan di area kota (stasiun dan hotel) >> Jas hujan (selama persediaan masih ada)
    
    
   - name  : Honda Scoopy
     image : https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/scoopy.jpg?w=400&radius=25&force_format=png&
-    designation : 70Rb/hari >> 140Rb/2hari >> 200Rb/3hari
+    designation : 90 Ribu / Hari
     description : Max 2 helm per 1 motor >> Free pengantaran dan pengambilan di area kota (stasiun dan hotel) >> Jas hujan (selama persediaan masih ada)
     
-    
-  - name  : Honda Vario 150
-    image : https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/vario.jpg?w=400&radius=25&force_format=png&
-    designation : 70Rb/hari >> 140Rb/2hari >> 200Rb/3hari
-    description : Max 2 helm per 1 motor >> Free pengantaran dan pengambilan di area kota (stasiun dan hotel) >> Jas hujan (selama persediaan masih ada)
     
   - name  : Honda Vario 125
     image : https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/vario.jpg?w=400&radius=25&force_format=png&
-    designation : 70Rb/hari >> 140Rb/2hari >> 200Rb/3hari
+    designation : 80 Ribu / Hari
     description : Max 2 helm per 1 motor >> Free pengantaran dan pengambilan di area kota (stasiun dan hotel) >> Jas hujan (selama persediaan masih ada)
 
 
