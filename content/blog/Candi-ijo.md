@@ -1,6 +1,6 @@
 ---
 title: "Candi Ijo"
-date: 2022-12-02T12:34:37+06:00
+date: 2022-12-01
 description : "Candi ijo"
 image: https://aceapugtar.cloudimg.io/beningabaditransport.com/uploads/candi-ijo.jpg?w=600&radius=25&force_format=png&
 ---
