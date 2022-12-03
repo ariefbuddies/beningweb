@@ -25,7 +25,7 @@ weight = 3
 
 
 [[menu.main]]
-name = "Obyek Wisata Jogja"
+name = "Obyek Wisata Jogja/Blog"
 url = "blog/"
 weight = 4
 
