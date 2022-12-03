@@ -14,3 +14,5 @@ theme = "timer-hugo"
 test test terusssssssssssss!!
 **jangan ngoding disini**
 ```
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-dcbd26a9-ed18-44be-98cf-d05920611839"></div>
