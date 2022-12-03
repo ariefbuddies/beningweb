@@ -9,8 +9,5 @@ tags: ["motivation", "inspiration"]
 ---
 # Testing
 ```toml
-## Change the default theme togo
-theme = "timer-hugo"
-test test terusssssssssssss!!
-jangan ngoding disini!!
+A brand new look
 ```
