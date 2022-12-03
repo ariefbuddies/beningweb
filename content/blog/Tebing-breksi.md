@@ -1,7 +1,7 @@
 ---
 title: "Tebing breksi"
 date: 2022-12-03T12:32:37+06:00
-description : "This is meta description"
+description : "Tebing breksi"
 ---
 TEBING BREKSI
 
