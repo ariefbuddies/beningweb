@@ -89,8 +89,8 @@ subtitle = "_______________________"
 # social icon
 [[params.socialIcon]]
 icon = "ion-social-facebook"
-url = "#"
+url = "https://facebook.com/beningabaditransport"
 
 [[params.socialIcon]]
 icon = "ion-social-instagram"
-url = "#"
+url = "https://instagram.com/beningabadi2"
