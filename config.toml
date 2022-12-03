@@ -3,7 +3,7 @@ languageCode = "id-ID"
 title = "Sewa Mobil Jogja di Bening Abadi Transport"
 theme = "timer-hugo"
 # post pagination
-paginate = "2" # see https://gohugo.io/extras/pagination/
+paginate = "3" # see https://gohugo.io/extras/pagination/
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
