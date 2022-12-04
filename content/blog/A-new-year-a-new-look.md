@@ -1,9 +1,9 @@
 ---
 title: "A New Year a New Look"
 date: 2022-12-01
-description : "Sewa Mobil Yogyakarta"
+description : "Sewa Mobil Jogja"
 type: post
-image: https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/panobening.jpg?w=600&radius=25&force_format=png&
+image: https://raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/panobening.jpg?w=600&h=400&radius=25&force_format=png&
 author: BAT
 tags: ["motivation", "inspiration"]
 ---
