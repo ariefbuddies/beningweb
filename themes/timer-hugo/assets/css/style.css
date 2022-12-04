@@ -292,7 +292,7 @@ a:hover {
   background-attachment: fixed;
   padding: 230px 0;
   color: #fff;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   position: relative;
 }
 
@@ -322,7 +322,7 @@ a:hover {
 }
 
 #hero-area h2 {
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 300;
   margin-bottom: 38px;
   line-height: 27px;
