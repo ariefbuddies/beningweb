@@ -2,7 +2,7 @@
 title: "Tebing Breksi"
 date: 2022-12-01
 description : "Tebing breksi"
-image: https://aceapugtar.cloudimg.io/beningabaditransport.com/uploads/tebing-breksi-wisata-murah-jogja.jpg?w=600&radius=25&force_format=png&
+image: https://aceapugtar.cloudimg.io/beningabaditransport.com/uploads/tebing-breksi-wisata-murah-jogja.jpg?h=300&radius=25&force_format=png&
 ---
 
 TEBING BREKSI
