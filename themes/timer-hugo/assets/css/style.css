@@ -1360,19 +1360,6 @@ ul.social-icons li {
   color: #fff;
 }
 
-.container{
-  width:40vw; 
-  height:40vw; 
-  overflow:hidden;
-  margin: 20px;
-  float: left;
-  background-color: #ccc;
-}
-img{
-    width: 100%;
-    height: auto;
-}
-
 .float1{
 	position:fixed;
 	width:200px;
