@@ -47,7 +47,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable = true
 bgImage = "https://aceapugtar.cloudimg.io/ariefbuddies.github.io/beningweb/images/slider.jpg?w=400&h=200&func=bound"
 heading = "SEWA MOBIL JOGJA"
-description = "Rental Motor Mulai 70k/Hari | Sewa Mobil Mulai 250k/Hari | Penginapan Mulai 150k/Malam di Telpon 0274-583197 & 0274-547440. Sejak dahulu kala Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di Yogyakarta dan berlokasi yang terdekat dengan UGM dan UNY Jogja. Sewa mobil, sewa motor, penginapan kamar deluxe dan kamar standar serta guest house atau homestay adalah jasa utama kami. Kami selalu senantiasa berkomitmen memberikan yang terbaik kepada para pelanggan setia Bening Abadi Transport. Terima kasih banyak kepada para pelanggan yang telah menggunakan jasa kami, semoga para pelanggan kami sehat selalu dan lancar rejekinya...amien"
+description = "Rental Motor Mulai 70k/Hari | Sewa Mobil Mulai 250k/Hari | Penginapan Mulai 150k/Malam di Telpon 0274-583197 & 0274-547440. Sejak dahulu kala Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di kota pariwisata Yogyakarta dan berlokasi yang terdekat dengan UGM dan UNY Jogja serta kampus lainnya. Sewa mobil, sewa motor, penginapan kamar deluxe dan kamar standar serta guest house atau homestay adalah jasa utama kami. Kami selalu berusaha memberikan harga yang terbaik untuk para pelanggan dan kami juga selalu senantiasa berkomitmen memberikan pelayanan yang terbaik juga kepada para pelanggan setia Bening Abadi Transport. Terima kasih banyak kepada para pelanggan yang telah menggunakan jasa kami, semoga para pelanggan kami selalu diberi sehat dan lancar serta berkah rejekinya...amien"
 # button
 btn = false
 btnText = "More"
@@ -75,8 +75,8 @@ image = "https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/b
 # Call to Action
 [params.cta]
 enable = true
-title = "Telpon 0274-583197 & 0274-547440 Untuk informasi lebih lanjut dan booking. Syarat & Ketentuan Berlaku dibawah ini!"
-content = "<b><ul><li>Jam Operasional 09.00 sd 22.00 WIB.</li><li>Pengantaran dan pengambilan mobil area dalam kota saja mulai jam 09.00 sd 21.00 WIB. Diluar jam diatas bisa langsung hub WA kami.</li><li><u>3 saja tanda pengenal ID</u> KTP,NPWP,SIM,PASPORT,ID KERJA,BPJS.<li><li>No HP customer yang bisa dihubungi.</li><li>Semua booking mobil lepas kunci dan motor untuk pemakaian di dalam area DIY.</li><li>Semua pemesanan tanpa DP atau uang muka adalah bersifat tidak mengikat.</li><li>Overtime 10 persen per jam dari Tarif.</li><li><u>Harga sewaktu waktu bisa berubah tanpa pemberitahuan!</u></li></ul></b>"
+title = "Telpon 0274-583197 & 0274-547440 Untuk informasi lebih lanjut dan booking. Syarat & Ketentuan Berlaku dibawah ini, mohon untuk dperhatikan!"
+content = "<b><ul><li>Jam Operasional 09.00 sd 22.00 WIB.</li><li>Pengantaran dan pengambilan mobil area dalam kota saja mulai jam 09.00 sd 21.00 WIB. Diluar jam diatas bisa langsung hub WA kami.</li><li><u>3 saja tanda pengenal ID</u> KTP,NPWP,SIM,PASPORT,ID KERJA,BPJS.<li><li>No HP customer yang bisa dihubungi.</li><li>Semua booking mobil lepas kunci dan motor untuk pemakaian di dalam area DIY.</li><li>Semua pemesanan tanpa DP atau uang muka adalah bersifat tidak mengikat.</li><li>Overtime 10 persen per jam dari Tarif.</li><li><u>Harga sewaktu waktu bisa berubah tanpa pemberitahuan terlebih dahulu!</u></li></ul></b>"
 btnText = ""
 btnURL = ""
 
