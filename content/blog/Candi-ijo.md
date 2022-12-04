@@ -2,7 +2,7 @@
 title: "Candi Ijo"
 date: 2022-12-01
 description : "Candi ijo"
-image: https://aceapugtar.cloudimg.io/beningabaditransport.com/uploads/candi-ijo.JPG?w=600&radius=25&force_format=png&
+image: https://aceapugtar.cloudimg.io/beningabaditransport.com/uploads/candi-ijo.JPG?h=300&radius=25&force_format=png&
 ---
 
 CANDI IJO
