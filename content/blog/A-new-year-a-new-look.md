@@ -7,7 +7,7 @@ image: https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/ben
 author: BAT
 tags: ["motivation", "inspiration"]
 ---
-# Testing
+#
 ```toml
 A brand new look for the year 2023 AD
 ```
