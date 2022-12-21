@@ -5,7 +5,7 @@ description : "Sewa Mobil Jogja"
 type: post
 image: https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/panobening.jpg?h=300&radius=25&force_format=png&
 author: BAT
-tags: ["motivation", "inspiration"]
+tags: ["sewa mobil jogja", "lepas kunci"]
 ---
 #
 ```toml
