@@ -75,7 +75,7 @@ image = "https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/b
 # Call to Action
 [params.cta]
 enable = true
-title = "Telpon 0274-583197 & 0274-547440 Untuk informasi lebih lanjut dan booking. Syarat & Ketentuan Berlaku dibawah ini, mohon untuk diperhatikan!"
+title = "Telpon 0274-583197 & 0274-547440 Untuk informasi lebih lanjut dan booking. Syarat & Ketentuan Berlaku dibawah ini, dan nomor WA/TELPON selain di web ini adalah bukan dari pihak kami dan kami tidak bertanggungjawab selain dengan nomor telpon yg ada di web resmi kami, mohon untuk diperhatikan!"
 content = "<b><ul><li>Jam Operasional 09.00 sd 22.00 WIB.</li><li>Pengantaran dan pengambilan mobil area dalam kota saja mulai jam 09.00 sd 21.00 WIB. Diluar jam diatas bisa langsung hub WA kami.</li><li><u>3 saja tanda pengenal ID</u> KTP,NPWP,SIM,PASPORT,ID KERJA,BPJS.<li><li>No HP customer yang bisa dihubungi.</li><li>Semua booking mobil lepas kunci dan motor untuk pemakaian di dalam area DIY.</li><li>Semua pemesanan tanpa DP atau uang muka adalah bersifat tidak mengikat.</li><li>Overtime 10 persen per jam dari Tarif.</li><li><u>Harga sewaktu waktu bisa berubah tanpa pemberitahuan terlebih dahulu!</u></li></ul></b>"
 btnText = ""
 btnURL = ""
