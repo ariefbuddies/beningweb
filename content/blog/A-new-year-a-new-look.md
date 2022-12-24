@@ -1,4 +1,3 @@
-
 ---
 title: "A New Year a New Look"
 date: 2022-12-01
