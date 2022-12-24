@@ -3,7 +3,7 @@ title: "A New Year a New Look"
 date: 2022-12-01
 description : "Sewa Mobil Jogja"
 type: post
-image: https://hackmd.io/@buddies/H1YEdwRwj
+image: https://aceapugtar.cloudimg.io/raw.githubusercontent.com/gigitdemo.my.id/2023.png
 author: BAT
 tags: ["sewa mobil jogja", "lepas kunci"]
 ---
