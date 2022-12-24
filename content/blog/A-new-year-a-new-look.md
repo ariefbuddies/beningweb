@@ -9,8 +9,7 @@ tags: ["sewa mobil jogja", "lepas kunci"]
 ---
 #
 ```toml
-A brand new look for the year 2023 AD
+A brand new look for the year 2023 Anno Domini
 ```
-<figure class="video_container">
-<iframe src="https://hackmd.io/@buddies/H1YEdwRwj#" height="500" frameborder="0" allow=”accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture”></iframe>
-</figure>
+
+![](https://hackmd.io/@buddies/H1YEdwRwj#)
