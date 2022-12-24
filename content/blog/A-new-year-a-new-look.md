@@ -13,4 +13,4 @@ A brand new look for the year 2023 Anno Domini
 ```
 
 ![img](https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m1.webp?w=200&radius=20&force_format=png&#center)
-![img](https://aceapugtar.cloudimg.io/gigitbra.my.id/lips5.jpg)
+![img](https://hackmd.io/@buddies/H1YEdwRwj)
