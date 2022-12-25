@@ -3,7 +3,7 @@ title: "A New Year a New Look"
 date: 2022-12-01
 description : "Sewa Mobil Jogja"
 type: post
-image: https://gigitdemo.my.id/2023.png
+image: https://gigitdemo.my.id/2023b.png
 author: BAT
 tags: ["sewa mobil jogja", "lepas kunci"]
 ---
@@ -13,3 +13,5 @@ A brand new look for the year 2023 Anno Domini
 ```
 
 ![img](https://gigitdemo.my.id/2023.png)
+
+![img](https://gigitdemo.my.id/2023b.png)
