@@ -55,15 +55,13 @@ btnURL = ""
 
 # flip text
 [[params.banner.flipText]]
-title = "Mo nyewa mobil?"
+title = "SELAMAT NATAL & TAHUN BARU"
 [[params.banner.flipText]]
-title = "Mo ngerental motor?"
+title = "2023"
 [[params.banner.flipText]]
-title = "Mo nginep?"
+title = "MERRY CHRISTMAS"
 [[params.banner.flipText]]
-title = "Murah!"
-[[params.banner.flipText]]
-title = "Ga pake ribet!"
+title = "HAPPY NEW YEAR"
 
 # Homepage About Section
 [params.penginapan]
