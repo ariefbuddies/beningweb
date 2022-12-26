@@ -55,13 +55,13 @@ btnURL = ""
 
 # flip text
 [[params.banner.flipText]]
-title = "SELAMAT NATAL & TAHUN BARU"
+title = "SELAMAT NATAL & TAHUN BARU🎉"
 [[params.banner.flipText]]
 title = "2023"
 [[params.banner.flipText]]
 title = "MERRY 🎄 "
 [[params.banner.flipText]]
-title = "HAPPY NEW YEAR"
+title = "HAPPY NEW YEAR🎉"
 
 # Homepage About Section
 [params.penginapan]
