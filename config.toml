@@ -55,13 +55,17 @@ btnURL = ""
 
 # flip text
 [[params.banner.flipText]]
-title = "SELAMAT NATAL & TAHUN BARU🎉"
+title = "SELAMAT 🎄 & TAHUN BARU🎉"
 [[params.banner.flipText]]
 title = "2023"
 [[params.banner.flipText]]
-title = "MERRY 🎄 "
+title = "SEWA MOTOR JOGJA"
 [[params.banner.flipText]]
-title = "HAPPY NEW YEAR🎉"
+title = "🎆"
+[[params.banner.flipText]]
+title = "PENGINAPAN MURAH JOGJA"
+[[params.banner.flipText]]
+title = "SEWA MOTOR JOGJA"
 
 # Homepage About Section
 [params.penginapan]
