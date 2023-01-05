@@ -65,13 +65,13 @@ title = "🎆"
 [[params.banner.flipText]]
 title = "PENGINAPAN MURAH JOGJA"
 [[params.banner.flipText]]
-title = "SEWA MOTOR JOGJA"
+title = "ADA DI TRAVELOKA"
 
 # Homepage About Section
 [params.penginapan]
 enable = false
 title = "Tentang Bening Abadi Transport"
-content = "<p><b>Sejak dulu kala Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di Yogyakarta dan berlokasi yang terdekat dengan UGM dan UNY Jogja. Kami selalu senantiasa berkomitmen memberikan yang terbaik kepada para pelanggan.</b></p>"
+content = "<p><b>Sejak dulu kala Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di Yogyakarta dan berlokasi yang terdekat dengan UGM dan UNY Jogja dan bisa diakses melalui aplikasi TRAVELOKA. Kami selalu senantiasa berkomitmen memberikan yang terbaik kepada para pelanggan.</b></p>"
 image = "https://aceapugtar.cloudimg.io/raw.githubusercontent.com/ariefbuddies/bening-out/master/uploads/m14.webp?w=400&radius=20&force_format=png&"
 
 # Call to Action
