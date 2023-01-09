@@ -2,16 +2,6 @@
   {{ "<!-- Basic Page Needs -->" | safeHTML }}
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<!-- Begin 33Across SiteCTRL -->
-<script>
-var Tynt=Tynt||[];Tynt.push('bEA_4oiiWr6yknaKkv7mNO');
-(function(){var h,s=document.createElement('script');
-s.src='https://cdn.tynt.com/ti.js';
-h=document.getElementsByTagName('script')[0];
-h.parentNode.insertBefore(s,h);})();
-</script>
-<!-- End 33Across SiteCTRL -->
-  
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3LK8KSCRSR"></script>
 <script>
@@ -21,7 +11,16 @@ h.parentNode.insertBefore(s,h);})();
 
   gtag('config', 'G-3LK8KSCRSR');
 </script>
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3LK8KSCRSR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'G-3LK8KSCRSR');
+</script>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
   {{ hugo.Generator }}
   
