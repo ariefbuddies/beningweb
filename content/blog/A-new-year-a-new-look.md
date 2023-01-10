@@ -5,7 +5,7 @@ description : "Sewa Mobil Jogja"
 type: post
 image: https://gigitdemo.my.id/2023b.png
 author: BAT
-tags: ["sewa mobil jogja", "lepas kunci"]
+tags: ["sewa mobil jogja murah", "lepas kunci jogja"]
 ---
 #
 ```toml
