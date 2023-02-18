@@ -6,7 +6,7 @@ image: https://aceapugtar.cloudimg.io/beningabaditransport.com/uploads/tebing-br
 tags: ["sewa mobil jogja", "lepas kunci"]
 ---
 
-##TEBING BREKSI##
+TEBING BREKSI
 
 Salah satu destinasi favorit di Yogyakarta saat ini, terletak di Kabupaten Sleman, DIY. Berawal dari tebing tebing kapur yang dipahat, tebing ini sekarang menjadi salah satu tujuan wisata teramai di Yogyakarta
 
