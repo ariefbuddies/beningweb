@@ -11,7 +11,7 @@ Setelah dari Candi Ijo, perjalanan anda bisa diteruskan menuju puncak Batu Papal
 
 Batu Papal adalah salah satu objek wisata alam yang terletak di Yogyakarta. Batu Papal menjadi salah satu tempat wisata yang banyak dikunjungi oleh wisatawan lokal maupun internasional. Objek wisata ini terkenal dengan keindahan alamnya yang masih alami dan terjaga dengan baik.
 
-Batu Papal terletak di kaki Gunung Merapi yang memiliki ketinggian sekitar 1.200 meter di atas permukaan laut. Batu Papal sendiri memiliki bentuk seperti papal atau pipa yang terbuat dari batu. Batu Papal memiliki warna cokelat tua dengan tekstur batuan yang cukup kasar dan berlapis-lapis. Formasi batuan di Batu Papal terbentuk secara alami selama ribuan tahun.
+Batu Papal terletak di perbukitan yang sama dengan tebing breksi yang memiliki ketinggian sekitar 1.200 meter di atas permukaan laut. Batu Papal sendiri memiliki bentuk seperti papal atau pipa yang terbuat dari batu. Batu Papal memiliki warna cokelat tua dengan tekstur batuan yang cukup kasar dan berlapis-lapis. Formasi batuan di Batu Papal terbentuk secara alami selama ribuan tahun.
 
 Untuk mencapai Batu Papal, wisatawan harus melewati jalur pendakian yang cukup menantang. Namun, perjuangan tersebut akan terbayar dengan pemandangan yang spektakuler di sepanjang perjalanan. Selama pendakian, wisatawan akan disuguhi panorama alam yang sangat indah, seperti hutan tropis yang hijau dan beragam flora dan fauna yang hidup di dalamnya.
 
