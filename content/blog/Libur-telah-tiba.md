@@ -2,7 +2,7 @@
 title: "Libur Telah Tiba"
 date: 2023-02-02
 description : "Libur Telah Tiba"
-image: https://aceapugtar.cloudimg.io/gigitdemo.my.id/Candi%20Boko.jpg?h=300&radius=25&force_format=png&
+image: https://aceapugtar.cloudimg.io/gigitdemo.my.id/thingstodojogja.jpg?h=300&radius=25&force_format=png&
 tags: ["liburan", "obyek wisata"]
 ---
 
