@@ -14,7 +14,7 @@
       </div>
       <div class="col-md-4 col-12">
         {{ "<!-- Social Media -->" | safeHTML }}
-        <ul class="social text-md-left text-lg-left">
+        <ul class="social text-left text-md-left text-lg-left">
           {{ range .Site.Params.socialIcon }}
           <li><a href="{{ .url | safeURL }}"><i class="{{ .icon }}"></i></a></li>
           {{ end }}
