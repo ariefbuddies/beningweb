@@ -3,7 +3,7 @@ title: "A New Year a New Look"
 date: 2022-12-01
 description : "Sewa Mobil Jogja"
 type: post
-image: https://aceapugtar.cloudimg.io/beningabaditransport.com/2023b.png
+image: https://aceapugtar.cloudimg.io/beningabaditransport.com/images/2023b.png
 author: BAT
 tags: ["sewa mobil jogja murah", "lepas kunci jogja"]
 ---
