@@ -1444,3 +1444,14 @@ ul.social-icons li {
       display: block;
       width: 10%;
     }
+navi {
+  text-align: center;
+}
+
+navi .main-nav li {
+  float: left;
+  width: 20%;
+  margin-right: 5%;
+  font-size: 36px;
+  text-align: center;
+}
