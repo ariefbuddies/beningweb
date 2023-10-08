@@ -1363,12 +1363,12 @@ ul.social-icons li {
 .float1{
 	position:fixed;
 	width:200px;
-	height:40px;
+	height:60px;
 	bottom:60px;
 	right:10px;
 	background-color:#25d366;
 	color:#fff;
-	border-radius:40px;
+	border-radius:45px;
 	text-align:center;
   	font-size:20px;
 	box-shadow: 5px 5px 3px #999;
