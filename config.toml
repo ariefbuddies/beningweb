@@ -38,7 +38,7 @@ dateFormat = "6 January 2006"
 description = "Sewa Mobil Jogja. Lepas Kunci. Sopir / Driver. Rental Motor. Penginapan. Kamar. Homestay. Murah. City Car. MPV. Langsung Telp/WA 0818 267 443"
 author = "Themefisher"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+# googleAnalitycsID = "Your ID"
 # contact form action
 contactFormAction = "#" # contact form works with https://formspree.io
 
