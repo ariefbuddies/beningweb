@@ -1,6 +1,6 @@
 obaseURL = "https://beningabaditransport.com/"
 languageCode = "id-ID"
-title = "Sewa Mobil Jogja Penginapan Homestay Rental Motor"
+title = "Sewa Mobil Jogja Penginapan Homestay Rental Motor Murah Terjangkau Mahasiswa"
 theme = "timer-hugo"
 # post pagination
 paginate = "15" # see https://gohugo.io/extras/pagination/
@@ -47,7 +47,7 @@ contactFormAction = "#" # contact form works with https://formspree.io
 enable = true
 bgImage = "https://aceapugtar.cloudimg.io/gigitdemo.my.id/wuling.jpg"
 heading = "SEWA MOBIL JOGJA"
-description = "Sewa Mobil Jogja Mulai 250k/Hari | Sewa Motor Mulai 70k/Hari | Penginapan Mulai 150k/Malam di Telpon 0274-583197 & 0274-547440. Sejak dahulu kala Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di kota pariwisata Yogyakarta dan berlokasi yang terdekat dengan UGM dan UNY Jogja serta kampus lainnya. Sewa mobil jogja, lepas kunci maupun dengan driver / sopir, sewa motor, penginapan kamar deluxe dan kamar standar serta guest house atau homestay adalah jasa utama kami dan anda bisa memesan kamar / homestay via aplikasi TRAVELOKA. Kami selalu berusaha memberikan harga yang terbaik untuk para pelanggan dan kami juga selalu senantiasa berkomitmen memberikan pelayanan yang terbaik juga kepada para pelanggan setia Bening Abadi Transport. Terima kasih banyak kepada para pelanggan yang telah menggunakan jasa kami, semoga para pelanggan kami selalu diberi sehat dan lancar serta berkah rejekinya...amien. Salam sewa mobil jogja!!"
+description = "Sewa Mobil Jogja Mulai 250k/Hari | Sewa Motor Mulai 70k/Hari | Penginapan Mulai 150k/Malam di Telpon 0274-583197 & 0274-547440. Sejak dahulu kala Bening Abadi Transport telah berkecimpung di bidang transportasi dan penginapan murah di kota pariwisata Yogyakarta dan berlokasi yang terdekat dengan UGM dan UNY Jogja serta kampus lainnya. Sewa mobil jogja, lepas kunci maupun dengan driver / sopir, sewa motor, penginapan kamar deluxe dan kamar standar serta guest house atau homestay adalah jasa utama kami dan anda bisa memesan kamar / homestay via aplikasi TRAVELOKA, dan kami juga memiliki cabang di Stasiun Lempuyangan dan depan UMY Gamping Yogyakarta. Kami selalu berusaha memberikan harga yang terbaik untuk para pelanggan dan kami juga selalu senantiasa berkomitmen memberikan pelayanan yang terbaik juga kepada para pelanggan setia Bening Abadi Transport. Terima kasih banyak kepada para pelanggan yang telah menggunakan jasa kami, semoga para pelanggan kami selalu diberi sehat dan lancar serta berkah rejekinya...amien. Salam sewa mobil jogja!!"
 # button
 btn = false
 btnText = "More"
