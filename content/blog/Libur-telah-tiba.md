@@ -24,3 +24,10 @@ Yogyakarta adalah kota yang kaya akan sejarah, budaya, dan keindahan alam. Ada b
 7. Mengunjungi Gunung Merapi: Gunung ini adalah gunung berapi paling aktif di Indonesia dan menawarkan pemandangan yang spektakuler dari puncaknya. Kamu bisa naik jeep atau melakukan pendakian untuk mencapai puncak.
 
 Itulah beberapa saran yang bisa saya berikan. Pastikan kamu melakukan pengecekan terkait pembatasan perjalanan dan protokol kesehatan terbaru yang berlaku di Yogyakarta sebelum berangkat. Semoga kamu memiliki liburan yang menyenangkan!
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
