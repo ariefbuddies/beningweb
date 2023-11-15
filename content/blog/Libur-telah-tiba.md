@@ -25,9 +25,8 @@ Yogyakarta adalah kota yang kaya akan sejarah, budaya, dan keindahan alam. Ada b
 
 Itulah beberapa saran yang bisa saya berikan. Pastikan kamu melakukan pengecekan terkait pembatasan perjalanan dan protokol kesehatan terbaru yang berlaku di Yogyakarta sebelum berangkat. Semoga kamu memiliki liburan yang menyenangkan!
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+
+  <center><iframe width="290" height="420" src="https://ariefbuddies.github.io/reveal/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+
 
